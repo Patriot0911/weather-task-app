@@ -2,6 +2,7 @@
 
 Project bassed on react with Vite
 *React (frontend lib): https://github.com/facebook/react*
+
 *Weather API: https://api.weatherapi.com/v1*
 
 ## **Installation & Usage**
