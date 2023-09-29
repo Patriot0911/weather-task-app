@@ -1,27 +1,18 @@
-# React + TypeScript + Vite
+# Simple Weather info search engine
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Project bassed on react with Vite
+*React (frontend lib): https://github.com/facebook/react*
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
+## **Installation & Usage**
+```
+   cd weather-task-app
+   npm install
+   npm run dev // or we can run build
 ```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+To search info about specific place we need just to enter city name into input with placeholder "City Name"
+
+## **Screenshots**
+![weather-search-scr1](https://i.postimg.cc/023KVtWS/photo-2023-09-29-18-37-26.jpg)
+![weather-search-scr2](https://i.postimg.cc/t4xZwhwM/photo-2023-09-29-18-37-31.jpg)
+![weather-search-scr3](https://i.postimg.cc/xdVJ2XST/photo-2023-09-29-18-37-33.jpg)
