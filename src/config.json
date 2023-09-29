@@ -1,0 +1,4 @@
+{
+    "APIKEY": "APIKEY FROM weatherapi.com ",
+    "BASEURL": "https://api.weatherapi.com/v1"
+}

@@ -1,0 +1,15 @@
+.modal-window {
+    margin: auto;
+    color: black;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+    width: 350px;
+    height: 150px;
+    background-color: rgb(255, 255, 255);
+}
+.modal-close {
+    margin-top: 10px;
+    font-size: 25px;
+    padding: 8px;
+}

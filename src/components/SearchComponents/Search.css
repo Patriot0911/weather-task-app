@@ -1,0 +1,26 @@
+input {
+    font-size: 15px;
+    padding: 2px;
+    background-color: rgba(45, 45, 34, 0.8);
+    border: 2px solid rgba(45, 45, 34, 0.8);
+    margin-right: 5px;
+}
+input::placeholder {
+    color: rgb(255, 255, 255);
+}
+button {
+    font-size: 15px;
+    padding: 2px;
+    background-color: rgb(48, 95, 119);
+    outline: none;
+    border: 2px solid rgba(55, 111, 184, 0.502);
+    transition: all 0.2s ease-in-out;
+}
+button:hover {
+    background-color: rgb(18, 116, 201);
+}
+.search-title {
+    font-weight: 400;
+    border-bottom: 2px solid rgba(0, 0, 0, 0.417);
+    margin-bottom: 15px;
+}
